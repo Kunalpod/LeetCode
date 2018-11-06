@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/binary-gap/description/
+
 def binaryGap(self, N):
     count = 0
     nB = bin(N)[2:]
